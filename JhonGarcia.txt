@@ -1,0 +1,6 @@
+if clase {
+	print (let's make code)
+}
+ for estudiantes in class {
+	print(estudiantes)
+}
